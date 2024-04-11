@@ -1,0 +1,78 @@
+#inputlable{padding-right: 490px;background-color: rgb(25, 239, 178);
+
+}
+body{background-color: rgb(202, 199, 196);}
+.container{display: flex; padding-top: 5px; box-sizing: border-box;}
+.header-1{background-color: rgba(64, 99, 121, 0.968);
+     border-bottom-width: 9px; border-bottom-color: black;
+     border-bottom-style:solid;}
+
+.container li{list-style: none;}
+.Lo {flex:3;color: rgb(27, 15, 46); }    
+.lists {flex:1;}     
+
+.lists li  {float: left; padding-right: 19px;justify-content: space-evenly;}  
+.container a{text-decoration: none;
+    
+}
+#button{background-color: rgb(153, 153, 163);}
+
+
+.news-letter{background-image: url(mountain-magic-hour.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+margin-top: opx;
+box-sizing: border-box;}
+#para1{padding-top: 90px
+     ;
+text-align:center ;
+     padding-bottom: 150px;
+padding-right: 19px;
+padding-left: 19px;}
+.news-letter h1{text-align: center;
+     padding-top: 50px
+     ;
+font-style: Madrigal ;}
+.form-sub{padding-bottom: 25px; text-align:center;
+font-size: 25px;
+font-weight: 200;
+text-transform: capitalize; }
+
+
+.boxes img{width: 100px;
+height: 100px;}
+.boxes {display: flex;
+    width: 70%;
+    
+; padding-left: 150px;
+
+     padding-top: 10px;
+}
+.boxes div{border: 3px solid rgb(45, 30, 30);
+     box-shadow: 2px;padding-left: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     padding-top:0px;background-color: rgb(153, 162, 176);
+     border-radius: 9px;
+}
+     
+.boxes h1{font-size: 40px;
+color: #1c0502  }
+.boxes  h1,img{ padding-left: 50px; }
+#d1{flex: 1em; }
+#d2{flex: 1em;}
+#d3{flex: 1em;}
+
+.footer{background-color: rgb(97, 117, 122); margin-top: 40px;
+}
+
+.img-logos{padding-top: 50px;
+     
+     
+    display: flex;padding-left: 500px;
+}
+.img-logos img{  width: 40px;
+     height: 40px ;
+
+}#img3{padding-left: 1250px;}
